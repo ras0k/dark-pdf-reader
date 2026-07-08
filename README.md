@@ -1,6 +1,7 @@
 # Dark Mode Continuous PDF Reader
 
-Does this already exist? Probably, yeah. Was it fun to make? Also yes.
+Does this already exist? Probably. 
+Was it fun to make? Also yes.
 
 A memory-optimized, flicker-free, continuous-scrolling PDF reader built with Python and Tkinter. 
 This application automatically inverts document colors to provide a true high-contrast, white-on-black reading experience tailored for dark mode environments.
